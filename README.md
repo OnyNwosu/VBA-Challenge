@@ -55,6 +55,8 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Some assignments, like this one, contain a bonus. It is possible to achieve mastery on this assignment without completing the bonus. The bonus adds an opportunity to further develop you skills and be rewarded extra points for doing so.
 
+
+
 ## Submission
 
 * To submit please upload the following to Github:
