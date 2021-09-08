@@ -73,7 +73,3 @@ You are well on your way to becoming a programmer and Excel master! In this home
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
-
-
-
-111111111111
